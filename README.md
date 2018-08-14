@@ -18,7 +18,7 @@ _&quot;a logic gate is an idealized or physical device implementing a Boolean fu
 
 The neurons in the brain look a bit like this.
 
-
+![neurons in the brain](https://github.com/SudhaHariharan/perceptronlogicgates/blob/master/images/perceptron1.png)
  
 Image courtesy: [https://www.coursera.org/learn/machine-learning/supplement/jtFHI/lecture-slides](https://www.coursera.org/learn/machine-learning/supplement/jtFHI/lecture-slides)
 
@@ -29,7 +29,7 @@ A perceptron is a single layer neural network and multi-layer perceptron is call
 _ &#39;In _[_machine learning_](https://en.wikipedia.org/wiki/Machine_learning)_, the perceptron is an algorithm for _[_supervised learning_](https://en.wikipedia.org/wiki/Supervised_classification)_ of _[_binary classifiers_](https://en.wikipedia.org/wiki/Binary_classification)_ (functions that can decide whether an input, represented by a vector of numbers, belongs to some specific class or not)._[_[1]_](https://en.wikipedia.org/wiki/Perceptron#cite_note-largemargin-1)_ It is a type of _[_linear classifier_](https://en.wikipedia.org/wiki/Linear_classifier)_, i.e. a classification algorithm that makes its predictions based on a _[_linear predictor function_](https://en.wikipedia.org/wiki/Linear_predictor_function)_ combining a set of weights with the _[_feature vector_](https://en.wikipedia.org/wiki/Feature_vector)_.&quot; - Wikipedia_
 
 **Representation:**
-
+![Perceptron Representation](https://github.com/SudhaHariharan/perceptronlogicgates/blob/master/images/perceptron2.png)
  
 The sigmoid function is a commonly used activation function.
 
@@ -38,7 +38,7 @@ g(z) = 1(1+e−z)
 
 A sigmoid function when plotted looks like:
 
- 
+![Sigmoid](https://github.com/SudhaHariharan/perceptronlogicgates/blob/master/images/perceptron3.png)
 
 The sigmoid function returns 1 if the z is over 4 and 0 if it is less than -4.
 
